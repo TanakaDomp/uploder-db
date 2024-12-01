@@ -1,4 +1,4 @@
-<h1 align="center">UPLOADER DB</h1>
+<h1 align="center">UPLOAD TO GITHUB</h1>
 
 <br>
 <br>
@@ -34,6 +34,6 @@ Id : Repositori ini dikhususkan untuk fitur uploder via github.
 
 ## Upcoming
 
-|     Name     | Feature                         |
+|     Name     | Email                         |
 | :----------: | :------------------------------ |
 | Any request? | Contact me! tanakadomp@gmail.com |
